@@ -15,7 +15,7 @@
 
 #### Markdown Related
 
-- [The Linden Project] - A collection of components forming a personal wiki based on markdown and frontmatter.
+- [The Linden Project](https://github.com/linden-project) - A collection of components forming a personal wiki based on markdown and frontmatter.
 - [Vim SC-IM Plugin](https://github.com/mipmip/vim-scimark) - Edit embedded markdown tables in sc-im in vim.
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
 - [Markdown In Preview (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
