@@ -1,9 +1,14 @@
-### Hi there ✨
+### Bothered by ideas
 
-- I'm a developer and cloud engineer working at [TechNative](https://technative.nl).
-- I ❤️ and truly believe in Open Source.
-- 📫 How to reach me: checkout [pimsnel.com](https://pimsnel.com).
-- [My 🇳🇱 website](https://pimsnel.nl) has some writings.
+Hi there, I'm Pim Snel.
+
+I'm a creative developer, interested in nature, food, and creating and consuming open source software for business and fun.
+
+My job, as a cloud engineer at [TechNative](https://technative.nl) is to maintain, design and build cloud native infrastructure for tech loving customers.
+
+I ❤️ and truly believe in Open Source. Open source and open idea's make the world a nicer place to live in. Sharing is more fun then to be rich and lonely. 
+
+[My 🇳🇱 dutch website](https://pimsnel.nl) has some writings.
 
 ### Some of my projects
 
@@ -20,6 +25,7 @@
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
 - [Markdown In Preview (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
 - [Vim open in MIP plugin](https://github.com/mipmip/vim-open-mip) - Opens current file in Markdown in Preview, without blocking Vim.
+- [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
 
 #### Hugo & Quiqr
 
@@ -27,6 +33,11 @@ Quiqr is a headless desktop CMS for Hugo.
 
 - [Quiqr Desktop](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
+
+### CLI and Shell utilities
+
+- [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
+- [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do housekeeping on your github account and repositories.
 
 #### Other
 
@@ -38,7 +49,8 @@ Most of my open source projects are listed nicely at https://mipmip.github.io
 
 #### Soon to be open sourced
 
-- [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents
+- [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents.
+- [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
 
 
 
