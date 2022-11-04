@@ -1,6 +1,6 @@
-### Bothered by ideas
+## Hi there 🎋
 
-Hi there, I'm Pim Snel.
+I'm Pim Snel, I'm often bothered by ideas.
 
 I'm a creative developer, interested in nature, food, and creating and consuming open source software for business and fun.
 
