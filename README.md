@@ -44,7 +44,7 @@ Quiqr is a headless desktop CMS for Hugo.
 - [SVG Stencils](https://github.com/svg-stencils) - Community Driven SVG Stencil Library. Includes Inkscape companion extension.
 - [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options and it configuratio details.
 - [AwesomeWM Screenshots Gallery](https://mipmip.github.io/awesomewm-screenshots/) - More friendy gallery of screenshots from the Awesome WM Community.
-- [Passing Train](https://github.com/passing-train/trajno) - Time Tracker research project using the passing train methodology.
+- [Passing Train](https://github.com/passing-train) - Time Tracker research project using the passing train methodology.
 
 Most of my open source projects are listed nicely at https://mipmip.github.io
 
