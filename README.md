@@ -53,5 +53,9 @@ Most of my open source projects are listed nicely at https://mipmip.github.io
 - [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents.
 - [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
 
+#### Memory Lane
+
+- [Exact Online Api Stuff](https://github.com/topics/eolibs) - Libs and stuff to communicate with the Exact Online Api focussing on Ruby, iOS and MacOS.
+
 
 
