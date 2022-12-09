@@ -34,8 +34,9 @@ Quiqr is a headless desktop CMS for Hugo.
 - [Quiqr Desktop](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
 
-### CLI and Shell utilities
+#### Dotfiles, NixOS, CLI and Shell utilities
 
+- [mipmip/nixos - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do housekeeping on your github account and repositories.
 
@@ -56,6 +57,5 @@ Most of my open source projects are listed nicely at https://mipmip.github.io
 #### Memory Lane
 
 - [Exact Online Api Stuff](https://github.com/topics/eolibs) - Libs and stuff to communicate with the Exact Online Api focussing on Ruby, iOS and MacOS.
-
 
 
