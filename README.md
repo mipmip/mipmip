@@ -36,7 +36,7 @@ Quiqr is a headless desktop CMS for Hugo.
 
 #### Dotfiles, NixOS, CLI and Shell utilities
 
-- [mipmip/nixos - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
+- [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do housekeeping on your github account and repositories.
 
