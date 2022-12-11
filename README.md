@@ -6,7 +6,7 @@ I'm a creative developer, interested in nature, food, and creating and consuming
 
 My job, as a cloud engineer at [TechNative](https://technative.nl) is to maintain, design and build cloud native infrastructure for tech loving customers.
 
-I ❤️ and truly believe in Open Source. Open source and open idea's make the world a nicer place to live in. Sharing is more fun then to be rich and lonely. 
+I ❤️ and truly believe in Open Source. Open source and open idea's make the world a nicer place to live in. Sharing is more fun then to be rich but lonely. 
 
 [My 🇳🇱 dutch website](https://pimsnel.nl) has some writings.
 
