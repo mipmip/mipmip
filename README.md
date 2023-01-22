@@ -51,13 +51,13 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 
 Most of my open source projects are listed nicely at https://mipmip.github.io
 
-#### Soon to be open sourced
-
+#### PDF Letterhead
 - [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents.
-- [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
+- [PDF Letterhead Source Code](https://github.com/pdfletterhead/pdf_letterhead) - PDF Letterheads git repository with latest source code.
+- [YAPDFKit](https://github.com/mipmip/YAPDFKit) - Independant PDF Kit for parsing and modifying PDF's. In ObjC for OS X and iOS
 
 #### Memory Lane
-
+- [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
 - [Exact Online Api Stuff](https://github.com/topics/eolibs) - Libs and stuff to communicate with the Exact Online Api focussing on Ruby, iOS and MacOS.
 
 
