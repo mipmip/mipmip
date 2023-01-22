@@ -23,7 +23,8 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [The Linden Project](https://github.com/linden-project) - A collection of components forming a personal wiki based on markdown and frontmatter.
 - [Vim SC-IM Plugin](https://github.com/mipmip/vim-scimark) - Edit embedded markdown tables in sc-im in vim.
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
-- [Markdown In Preview (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
+- [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
+- [Markdown In Preview (Crystal) (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
 - [Vim open in MIP plugin](https://github.com/mipmip/vim-open-mip) - Opens current file in Markdown in Preview, without blocking Vim.
 - [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
 
