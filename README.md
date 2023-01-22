@@ -30,9 +30,10 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 
 #### Hugo & Quiqr
 
-Quiqr is a headless desktop CMS for Hugo.
+[Quiqr](https://www.quiqr.org) is a headless desktop CMS for Hugo.
 
-- [Quiqr Desktop](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
+- [Quiqr](https://www.quiqr.org) - Quiqr Project Page
+- [Quiqr App](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
 
 #### Dotfiles, NixOS, CLI and Shell utilities
