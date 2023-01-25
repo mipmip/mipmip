@@ -18,26 +18,31 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [Hotkeys Popup](https://github.com/mipmip/gnome-shell-extensions-hotkeys-popup) - GNOME Shell Extension that displays currently configured Gnome hotkeys in a popup. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4553/hotkeys-popup/)
 - [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
 
-#### Markdown Related
-
-- [The Linden Project](https://github.com/linden-project) - A collection of components forming a personal wiki based on markdown and frontmatter.
-- [Vim SC-IM Plugin](https://github.com/mipmip/vim-scimark) - Edit embedded markdown tables in sc-im in vim.
-- [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
-- [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
-- [Markdown In Preview (Crystal) (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
-- [Vim open in MIP plugin](https://github.com/mipmip/vim-open-mip) - Opens current file in Markdown in Preview, without blocking Vim.
-- [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
-
-#### Hugo & Quiqr
-
-[Quiqr](https://www.quiqr.org) is a headless desktop CMS for Hugo.
+#### Quiqr - Headless desktop CMS for Hugo.
 
 - [Quiqr](https://www.quiqr.org) - Quiqr Project Page
 - [Quiqr App](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
 
-#### Dotfiles, NixOS, CLI and Shell utilities
+#### Vim Plugins
+- [Open in MIP plugin](https://github.com/mipmip/vim-open-mip) - Opens current file in Markdown in Preview, without blocking Vim.
+- [The Linden Project](https://github.com/linden-project) - A collection of components forming a personal wiki based on markdown and frontmatter.
+- [Scimark](https://github.com/mipmip/vim-scimark) - Edit embedded markdown tables in sc-im in vim.
+- [HotPop](https://github.com/mipmip/vim-hotpop) - Defines Vim mappings and show them in a help popup.
+- [Show in Filemanager](https://github.com/mipmip/vim-show-in-filemanager) - Show current file in buffer in OS Filemanager (Linux + Mac).
+- [Panel Manager](https://github.com/mipmip/panelmanager.vim) - Panel Manager for Vim.
 
+#### Vim Colorschemes
+- [White Writer](https://github.com/mipmip/vim-whitewriter) - Typewriter colorscheme with a pure white background.
+- [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
+
+#### Markdown related..
+- [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
+- [Markdown In Preview (Crystal) (MIP)](https://github.com/mipmip/mip.cr) - A fast and simple markdown viewer. Crystal version.
+- [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
+- [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
+ 
+#### Dotfiles, NixOS, CLI and Shell utilities
 - [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do housekeeping on your github account and repositories.
