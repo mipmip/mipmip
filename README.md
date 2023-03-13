@@ -12,7 +12,7 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 
 ### Some of my projects
 
-#### Gnome Extensions ![gnome](./gnome.jpg)
+#### Gnome Extensions
 - [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4684/useless-gaps/)
 - [Hotkeys Popup](https://github.com/mipmip/gnome-shell-extensions-hotkeys-popup) - GNOME Shell Extension that displays currently configured Gnome hotkeys in a popup. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4553/hotkeys-popup/)
 - [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
@@ -31,9 +31,9 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [Show in Filemanager](https://github.com/mipmip/vim-show-in-filemanager) - Show current file in buffer in OS Filemanager (Linux + Mac).
 - [Panel Manager](https://github.com/mipmip/panelmanager.vim) - Panel Manager for Vim.
 
-#### Gnome Software ![gnome](./gnome.jpg)
+#### Gnome Software
 - [Gnome Hotkeys](https://github.com/mipmip/gnome-hotkeys.cr) - All your Hotkeys as Popup at your fingertips. WIP
-- 
+
 #### Vim Colorschemes
 - [White Writer](https://github.com/mipmip/vim-whitewriter) - Typewriter colorscheme with a pure white background.
 - [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
