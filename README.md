@@ -6,7 +6,7 @@ I'm a creative developer, interested in nature, food, and creating and consuming
 
 My job, as a cloud engineer at [TechNative](https://technative.nl) is to maintain, design and build cloud native infrastructure for tech loving customers.
 
-I ❤️ and truly believe in Open Source. Open source and open idea's make the world a nicer place to live in. 
+I ❤️ and truly believe in Open Source. Open source and open idea's make the world a nicer place to live in.
 
 [My 🇳🇱 dutch website](https://pimsnel.nl) has some writings.
 
@@ -18,12 +18,11 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
 
 #### Quiqr - Headless desktop CMS for Hugo.
-
 - [Quiqr](https://www.quiqr.org) - Quiqr Project Page
 - [Quiqr App](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
 
-#### Vim Plugins 
+#### Vim Plugins
 - [Open in MIP plugin](https://github.com/mipmip/vim-open-mip) - Opens current file in Markdown in Preview, without blocking Vim.
 - [The Linden Project](https://github.com/linden-project) - A collection of components forming a personal wiki based on markdown and frontmatter.
 - [Scimark](https://github.com/mipmip/vim-scimark) - Edit embedded markdown tables in sc-im in vim.
@@ -34,15 +33,11 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 #### Gnome Software
 - [Gnome Hotkeys](https://github.com/mipmip/gnome-hotkeys.cr) - All your Hotkeys as Popup at your fingertips. WIP
 
-#### Vim Colorschemes
-- [White Writer](https://github.com/mipmip/vim-whitewriter) - Typewriter colorscheme with a pure white background.
-- [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
-
 #### Markdown related..
 - [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
 - [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
- 
+
 ### Nix / NixOS / Home Manager
 - [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options and it configuratio details.
@@ -52,16 +47,32 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do housekeeping on your github account and repositories.
 
+#### Vim Colorschemes
+<details>
+  <summary>More</summary>
+- [White Writer](https://github.com/mipmip/vim-whitewriter) - Typewriter colorscheme with a pure white background.
+- [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
+</details>
+
 #### PDF Letterhead
+<details>
+  <summary>More</summary>
 - [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents.
 - [PDF Letterhead Source Code](https://github.com/pdfletterhead/pdf_letterhead) - PDF Letterheads git repository with latest source code.
 - [YAPDFKit](https://github.com/mipmip/YAPDFKit) - Independant PDF Kit for parsing and modifying PDF's. In ObjC for OS X and iOS
+</details>
 
 #### Other
+<details>
+  <summary>More</summary>
 - [SVG Stencils](https://github.com/svg-stencils) - Community Driven SVG Stencil Library. Includes Inkscape companion extension.
 - [Passing Train](https://github.com/passing-train) - Time Tracker research project using the passing train methodology.
-- [AwesomeWM Screenshots Gallery](https://mipmip.github.io/awesomewm-screenshots/) - More friendy gallery of screenshots from the Awesome WM Community. 
+- [AwesomeWM Screenshots Gallery](https://mipmip.github.io/awesomewm-screenshots/) - More friendy gallery of screenshots from the Awesome WM Community.
+</details>
 
 #### Memory Lane
+<details>
+  <summary>More</summary>
 - [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
 - [Exact Online Api Stuff](https://github.com/topics/eolibs) - Libs and stuff to communicate with the Exact Online Api focussing on Ruby, iOS and MacOS.
+</details>
