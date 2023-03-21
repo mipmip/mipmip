@@ -17,16 +17,20 @@ I ❤️ and truly believe in Open Source. Open source and open idea's make the 
 - [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
 <details>
   <summary>More</summary>
+
 - [Hotkeys Popup](https://github.com/mipmip/gnome-shell-extensions-hotkeys-popup) - GNOME Shell Extension that displays currently configured Gnome hotkeys in a popup. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4553/hotkeys-popup/)
 - [Gnome Hotkeys](https://github.com/mipmip/gnome-hotkeys.cr) - All your Hotkeys as Popup at your fingertips. WIP
+
 </details>
 
 #### Quiqr - Headless desktop CMS for Hugo.
 - [Quiqr App](https://github.com/quiqr/quiqr-desktop) - The Quiqr Desktop app for Mac, Windows and Linux.
 <details>
   <summary>More</summary>
+
 - [Quiqr](https://www.quiqr.org) - Quiqr Project Page
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
+
 </details>
 
 #### Vim Plugins
