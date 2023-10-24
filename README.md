@@ -4,13 +4,14 @@ I'm Pim Snel.
 
 I'm a creative developer, interested in nature, food, and creating and consuming open source software for business and fun.
 
-My job, as a cloud engineer at [TechNative](https://technative.nl) is to maintain, design and build cloud native infrastructure for tech loving customers.
-
 I ❤️ and truly believe in Open Source. Open source and sharing idea's make the world a nicer place to live in.
 
 [My 🇳🇱 dutch website](https://pimsnel.nl) has some writings.
 
 ### Some of my projects
+
+#### Inkscape
+- [inkscape-cloud-architect](github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
 
 #### Gnome Extensions and software
 - [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4684/useless-gaps/)
@@ -47,19 +48,19 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
 </details>
 
+### Nix / NixOS / Home Manager
+- [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options and it configuratio details.
+- [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
+- [Nix User Repositories](https://nur.nix-community.org/) - Search through the NUR registry of Nix User Repositories.
+
 #### Markdown related
 - [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
 - [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
 <details>
   <summary>More</summary>
-
+  
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
-</details>
-
-### Nix / NixOS / Home Manager
-- [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options and it configuratio details.
-- [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
-- [Nix User Repositories](https://nur.nix-community.org/) - Search through the NUR registry of Nix User Repositories.
+</details
 
 #### CLI and Shell utilities
 <details>
@@ -70,21 +71,15 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 
 </details>
 
-#### PDF Letterhead
-- [PDF Letterhead](https://pdfletterhead.net/) - Mac app for add letterheads to PDF documents.
+#### Memory lane
+
+Not active projects...
+
 <details>
   <summary>More</summary>
-
 - [PDF Letterhead Source Code](https://github.com/pdfletterhead/pdf_letterhead) - PDF Letterheads git repository with latest source code.
 - [YAPDFKit](https://github.com/mipmip/YAPDFKit) - Independant PDF Kit for parsing and modifying PDF's. In ObjC for OS X and iOS
-
-</details>
-
-#### Other and memory lane
 - [SVG Stencils](https://github.com/svg-stencils) - Community Driven SVG Stencil Library. Includes Inkscape companion extension.
-<details>
-  <summary>More</summary>
-
 - [Passing Train](https://github.com/passing-train) - Time Tracker research project using the passing train methodology.
 - [AwesomeWM Screenshots Gallery](https://mipmip.github.io/awesomewm-screenshots/) - More friendy gallery of screenshots from the Awesome WM Community.
 - [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
