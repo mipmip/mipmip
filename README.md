@@ -11,7 +11,7 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 ### Some of my projects
 
 #### Inkscape
-- [inkscape-cloud-architect](github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
+- [inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
 
 #### Gnome Extensions and software
 - [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4684/useless-gaps/)
