@@ -77,6 +77,7 @@ Not active projects...
 
 <details>
   <summary>More</summary>
+  
 - [PDF Letterhead Source Code](https://github.com/pdfletterhead/pdf_letterhead) - PDF Letterheads git repository with latest source code.
 - [YAPDFKit](https://github.com/mipmip/YAPDFKit) - Independant PDF Kit for parsing and modifying PDF's. In ObjC for OS X and iOS
 - [SVG Stencils](https://github.com/svg-stencils) - Community Driven SVG Stencil Library. Includes Inkscape companion extension.
