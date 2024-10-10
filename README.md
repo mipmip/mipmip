@@ -65,21 +65,20 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do bulk housekeeping on your github account, orgs and repositories.
 - [Skull](https://github.com/mipmip/skull) - Git repos install tool organized by a catalog yaml file.
 
-#### Experimental projects (but worth mentioning)
+#### Experimental projects
 - [Magic Alpha](https://github.com/mipmip/magic-alpha) - Trying to get a fast Instant Alpha like app on Linux. (JS + Wails)
 - [Teledream](https://github.com/mipmip/teledream) - telegram bot to create stable diffusion txt2images.
 - [NixOS Option Search](https://github.com/mipmip/nixos-option-search) - Experiments to get a static but still fast enough search site for all NixOS options.
 
 #### Memory lane
 
-Inactive projects worth mentioning...
+Inactive but worth mentioning projects ...
 
 <details>
   <summary>More</summary>
   
 - [PDF Letterhead Source Code](https://github.com/pdfletterhead/pdf_letterhead) - PDF Letterheads git repository with latest source code.
 - [YAPDFKit](https://github.com/mipmip/YAPDFKit) - Independant PDF Kit for parsing and modifying PDF's. In ObjC for OS X and iOS
-- [SVG Stencils](https://github.com/svg-stencils) - Community Driven SVG Stencil Library. Includes Inkscape companion extension.
 - [Passing Train](https://github.com/passing-train) - Time Tracker research project using the passing train methodology.
 - [AwesomeWM Screenshots Gallery](https://mipmip.github.io/awesomewm-screenshots/) - More friendy gallery of screenshots from the Awesome WM Community.
 - [Liszt](http://liszt.munstermade.com/) - Upload images in the cloud for Markdown.
