@@ -43,7 +43,7 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [Petra](https://github.com/mipmip/vim-petra) - Warm chocolate brown colorscheme.
 </details>
 
-### Nix / NixOS / Home Manager
+#### Nix / NixOS / Home Manager
 - [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options. https://home-manager-options.extranix.com
 - [nix-builtins-search](https://github.com/mipmip/nix-builtins-search) - Helps finding Nix builtin functions. https://mipmip.github.io/nix-builtins-search
