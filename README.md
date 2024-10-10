@@ -54,12 +54,11 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [inkscape-svg_stencil_export](https://github.com/svg-stencils/inkscape-svg_stencil_export) - Inkscape extension helps exporting layers to https://svg-stencils.github.io
 
 #### Markdown related
-- [MIP](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
-- [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
+- [MIP](https://github.com/mipmip/mip.rs) - A fast and suckless Markdown viewer in a WebView not a browser. Ideal companion with Vim or NeoVim.
+- [fred](https://github.com/linden-project/fred) - Fred, a cli front matter editor.
 - [github-action-markdown-link-extract-to-json](https://github.com/mipmip/github-action-markdown-link-extract-to-json) - Extracts markdown links, store in json.
 
 #### CLI, git and shell utilities
-
 - [RUNME.sh](https://github.com/mipmip/RUNME.sh) - RUNME.sh is a tiny toolkit for creating bash cli utilities fast, simple and easy.
 - [Dirty Git](https://github.com/mipmip/dirtygit) - Forked and improved version of dirtygit.  Finds git repos in need of commitment.
 - [github-admin](https://github.com/mipmip/github-admin) - CLI admin utility to do bulk housekeeping on your github account, orgs and repositories.
