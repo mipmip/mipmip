@@ -6,7 +6,7 @@ I'm a creative developer, interested in nature, food, and creating and consuming
 
 I ❤️ and truly believe in Open Source. Open source and sharing idea's make the world a nicer place to live in.
 
-[My 🇳🇱 dutch website](https://pimsnel.nl) has some writings.
+[My 🇳🇱 dutch website](https://pimsnel.nl) has some writings. I work at [TechNative](https://technative.eu) where we also love to create [modern open source stuff](https://github.com/wearetechnative).
 
 ### Some of my projects
 
