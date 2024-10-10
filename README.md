@@ -22,8 +22,8 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 </details>
 
 #### Gnome Extensions and software
-- [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4684/useless-gaps/)
-- [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
+- [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows.
+- [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border.
 - [Gnome Hotkeys](https://github.com/mipmip/gnome-hotkeys.cr) - All your Hotkeys as Popup at your fingertips.
 
 #### Vim Plugins
