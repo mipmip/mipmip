@@ -21,11 +21,6 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [The Quiqr Book](https://book.quiqr.org/) - The Quiqr Book, for editors and developers.
 </details>
 
-#### Inkscape
-- [inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
-- [SVG Stencils](https://github.com/svg-stencils/svg-stencils.github.io) - Community Driven Stencil Library. Drag and Modify for Every Designer.
-- [inkscape-svg_stencil_export](https://github.com/svg-stencils/inkscape-svg_stencil_export) - Inkscape extension helps exporting layers to https://svg-stencils.github.io
-
 #### Gnome Extensions and software
 - [Useless Gaps](https://github.com/mipmip/gnome-shell-extensions-useless-gaps) - For aesthetic purposes adds useless gaps around tiled and maximized windows. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4684/useless-gaps/)
 - [Highlight Focus](https://github.com/mipmip/gnome-shell-extensions-highlight-focus) - Highlights the focussed window with a temporary border. [![gnome](./gnome.jpg)](https://extensions.gnome.org/extension/4699/highlight-focus/)
@@ -52,7 +47,12 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options. https://home-manager-options.extranix.com
 - [nix-builtins-search](https://github.com/mipmip/nix-builtins-search) - Helps finding Nix builtin functions. https://mipmip.github.io/nix-builtins-search
-  
+
+#### Inkscape
+- [inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
+- [SVG Stencils](https://github.com/svg-stencils/svg-stencils.github.io) - Community Driven Stencil Library. Drag and Modify for Every Designer.
+- [inkscape-svg_stencil_export](https://github.com/svg-stencils/inkscape-svg_stencil_export) - Inkscape extension helps exporting layers to https://svg-stencils.github.io
+
 #### Markdown related
 - [Markdown In Preview (Rust) (MIP)](https://github.com/mipmip/mip.rs) - A fast and simple markdown viewer. Rust version.
 - [fred](https://github.com/linden-project/fred) -  Fred, a cli front matter editor.
