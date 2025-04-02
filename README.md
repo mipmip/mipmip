@@ -47,6 +47,7 @@ I ❤️ and truly believe in Open Source. Open source and sharing idea's make t
 - [mipmip/nixos](https://github.com/mipmip/nixos) - Monorepo with Nix configurations of my Linux, macOS fleet (includes my Home Manager conf's)
 - [Home Manager Option Search](https://github.com/mipmip/home-manager-option-search) - Helps finding Nix Home Manager options. https://home-manager-options.extranix.com
 - [nix-builtins-search](https://github.com/mipmip/nix-builtins-search) - Helps finding Nix builtin functions. https://mipmip.github.io/nix-builtins-search
+- [HM Ricing Mode](https://github.com/mipmip/hm-ricing-mode) - HM Ricing Mode is a utility to put Home Manager managed apps in ricing mode.
 
 #### Inkscape
 - [inkscape-cloud-architect](https://github.com/mipmip/inkscape-cloud-architect) - Make Inkscape a professional Cloud Visualization Studio for Cloud Architects.
